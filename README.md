@@ -4,11 +4,11 @@ A collection of concise write-ups on small things I learn day to day across a va
 ---
 ### Android
 * [Register a single textWatcher to multiple editTexts](/android/single_text_watcher.md)
-* [Custom Fonts - How to implement FontFamily in Android](#ack)
-* [EditText - Change EditText password mask character to asterisk (*)](#ack)
-* [Material Design - Change button color in default Alert Dialog](#ack)
-* [What is the use of android:largeHeap="true"?](#ack)
-* [How to implement a Singleton class in Android?](#ack)
+* [Custom Fonts - How to implement FontFamily in Android](#)
+* [EditText - Change EditText password mask character to asterisk (*)](#)
+* [Material Design - Change button color in default Alert Dialog](#)
+* [What is the use of android:largeHeap="true"?](#)
+* [How to implement a Singleton class in Android?](#)
 
 
 ### iOS
