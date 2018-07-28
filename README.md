@@ -12,7 +12,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 
 ### iOS
-* [How to store  custom objects in UserDefaults](#ack)
+* [How to store  custom objects in UserDefaults](/ios/custom_user_defaults.md)
 
 
 
