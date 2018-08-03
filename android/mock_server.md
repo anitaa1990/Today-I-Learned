@@ -16,7 +16,7 @@ We can implement a mock server using [JsonServer](https://github.com/typicode/js
         "message": "Login is successful"
     }
     ```
-    Then we would need to add the response in the ```db.json``` file like this:
+    Then we would need to add a mock response in the ```db.json``` file like this:
     ```
     {
       "login": {
@@ -29,7 +29,7 @@ We can implement a mock server using [JsonServer](https://github.com/typicode/js
       }
     }
     ```
-    We need to give a name to every request data we add. For instance, if we need to add data for logout, then the ```db.json``` will look like this:
+    We need to give a name to every request data we add. <b>***This is very important***</b>. We need to add  For instance, if we need to add data for logout, then the ```db.json``` will look like this:
     ```
     {
       "login": {
@@ -48,7 +48,7 @@ We can implement a mock server using [JsonServer](https://github.com/typicode/js
     ```
     
     
-  * <b>Step 3</b>: Create a ```routes.json``` file in the root folder of your app project. This file will map the path urls to the corresponding mock response in the ```db.json```. So for the above login and logout response, the ```routes.json``` will be:
+  * <b>Step 3</b>: Create a ```routes.json``` file in the root folder of your app project. This file will map your custom path urls to the corresponding mock response in the ```db.json```. So for the above login and logout response, the ```routes.json``` will be:
     ```
     {
       "/api/logout": "/logout",    // -> Change the "api/logout" to your relevant path url. 
@@ -71,7 +71,7 @@ We can implement a mock server using [JsonServer](https://github.com/typicode/js
     }
     ```
     
-   * <b>Step 5</b>: Run the below command to start your local server:
+   * <b>Step 5</b>: Open the terminal inside your Android Studio and run the below command to start your local server:
     ```
     json-server --watch db.json --port 3004 --routes routes.json --middlewares middleware.js
     ```
