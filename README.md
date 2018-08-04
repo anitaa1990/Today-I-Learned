@@ -10,6 +10,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 * [What is the use of android:largeHeap="true"?](android/large_heap.md)
 * [How to implement a Singleton class in Android?](android/singleton.md)
 * [How to implement a Mock Server in Android using Json Server](android/mock_server.md)
+* [Send result back to multiple activities](android/activity_result.md)
 
 
 ### iOS
