@@ -11,6 +11,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 * [How to implement a Singleton class in Android?](android/singleton.md)
 * [How to implement a Mock Server in Android using Json Server](android/mock_server.md)
 * [Send result back to multiple activities](android/activity_result.md)
+* [DiffUtil in Android RecyclerView](android/android_diffutil.md)
 
 
 ### iOS
