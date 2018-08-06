@@ -1,6 +1,6 @@
 # Load Bitmaps into Memory
 
-I recently read an article on how to load bitmaps into memory in an efficient manner from [here](https://android.jlelse.eu/loading-large-bitmaps-efficiently-in-android-66826cd4ad53). I wanted to summarize the key points from the article here:
+I recently read an article on how to load bitmaps into memory in an efficient manner from [here](https://android.jlelse.eu/loading-large-bitmaps-efficiently-in-android-66826cd4ad53). Obviously, there are a lot of libraries that can care of this but I felt that knowing the theory behind it was helpful for me and I wanted to summarize the key points from the article here:
 
   * <b>How to load bitmap into Memory</b>: We can decode an image using ```BitmapFactory``` class.
     ```
