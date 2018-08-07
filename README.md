@@ -13,6 +13,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 * [Send result back to multiple activities](android/activity_result.md)
 * [DiffUtil in Android RecyclerView](android/android_diffutil.md)
 * [Load bitmaps into memory](android/load_bitmap.md)
+* [S.O.L.I.D principles in Android](android/solid_principle.md)
 
 
 ### iOS
