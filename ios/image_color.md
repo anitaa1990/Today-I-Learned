@@ -34,3 +34,9 @@ There is an extension we can make use of and use the function ```tintImage``` to
 
   }
 ```
+
+And it can be used like this:
+```
+  let image = btnClose.imageView?.image?.tintImage(color: UIColor(red: 103/255, green: 58/255, blue: 183/255, alpha: 1))
+  btnClose.setImage(image, for: .normal)
+```
