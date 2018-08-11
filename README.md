@@ -14,6 +14,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 * [DiffUtil in Android RecyclerView](android/android_diffutil.md)
 * [Load bitmaps into memory](android/load_bitmap.md)
 * [S.O.L.I.D principles in Android](android/solid_principle.md)
+* [Launch Modes in Android](/android/launch_modes.md)
 
 
 ### iOS
