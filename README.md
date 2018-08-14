@@ -16,6 +16,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 * [S.O.L.I.D principles in Android](android/solid_principle.md)
 * [Launch Modes in Android](/android/launch_modes.md)
 * [How RecyclerView works](/android/android_recyclerview.md)
+* [Reduce build time in Android](/android/reduce_build_time.md)
 
 
 ### iOS
