@@ -17,6 +17,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 * [Launch Modes in Android](/android/launch_modes.md)
 * [How RecyclerView works](/android/android_recyclerview.md)
 * [Reduce build time in Android](/android/reduce_build_time.md)
+* [RxJava - Basics, Types of Observables, Types of Operators](https://github.com/anitaa1990/RxAndroid-Sample)
 
 
 ### iOS
