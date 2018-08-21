@@ -20,12 +20,8 @@ We can implement a mock server using [JsonServer](https://github.com/typicode/js
     ```
     {
       "login": {
-          "token": "ogs6llbo2anhqc7g1pdhg797mk",
-          "ttl": 36000,
-          "fname": "DHaval",
-          "lname": "Jain",
-          "role": "C",
-          "status": 1
+          "status" : 1,
+          "message": "User logged in successfully"
       }
     }
     ```
@@ -33,12 +29,8 @@ We can implement a mock server using [JsonServer](https://github.com/typicode/js
     ```
     {
       "login": {
-          "token": "ogs6llbo2anhqc7g1pdhg797mk",
-          "ttl": 36000,
-          "fname": "DHaval",
-          "lname": "Jain",
-          "role": "C",
-          "status": 1
+          "status" : 1,
+          "message": "User logged in successfully"
       },
       "logout" : {
         "status" : 1,
