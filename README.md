@@ -18,6 +18,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 * [How RecyclerView works](/android/android_recyclerview.md)
 * [Reduce build time in Android](/android/reduce_build_time.md)
 * [RxJava - Basics, Types of Observables, Types of Operators](https://github.com/anitaa1990/RxAndroid-Sample)
+* [RxJava - Subjects and different types of Subjects](https://github.com/anitaa1990/RxAndroid-Sample/blob/master/README.md#subjects-and-different-types-of-subjects)
 
 
 ### iOS
