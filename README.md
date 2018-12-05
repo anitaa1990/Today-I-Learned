@@ -19,6 +19,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 * [Reduce build time in Android](/android/reduce_build_time.md)
 * [RxJava - Basics, Types of Observables, Types of Operators](https://github.com/anitaa1990/RxAndroid-Sample)
 * [RxJava - Subjects and different types of Subjects](https://github.com/anitaa1990/RxAndroid-Sample/blob/master/README.md#subjects-and-different-types-of-subjects)
+* [How to handle api error using RxJava Subjects](https://github.com/anitaa1990/RxNetworkEvent-Example)
 
 
 ### iOS
