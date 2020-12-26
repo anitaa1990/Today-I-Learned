@@ -25,6 +25,6 @@ Now let's look at the four different launch modes in Android:
       
       
 * <b>SingleInstance</b>: Same as single task but the system does not launch any activities in the same task as this activity. If new activities are launched, they are done so in a separate task.</br>
-      Eg: Suppose there is an activity stack of <i>A -> B -> C -> D</i>. If we launch activity B again with the launch mode as <b>singleTask</b>, the new activity stack will be:</i></br>
+      Eg: Suppose there is an activity stack of <i>A -> B -> C -> D</i>. If we launch activity B again with the launch mode as <b>singleInstance</b>, the new activity stack will be:</i></br>
       Task1:  <i>A -> B -> C</i></br>
       Task2:  <i>D</i>
